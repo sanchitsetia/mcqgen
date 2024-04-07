@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What does the term 'deep' in 'deep learning' refer to?,a: The number of layers in the network | b: The complexity of the algorithms used | c: The amount of data used for training | d: The speed at which the network can learn,a
+Which of the following is NOT a type of deep learning architecture?,a: Deep neural networks | b: Recurrent neural networks | c: Support vector machines | d: Convolutional neural networks,c
+What is the main benefit of using deep learning for unsupervised learning tasks?,a: It eliminates the need for labeled data | b: It can extract more complex features from the data | c: It is more efficient than supervised learning | d: It is more accurate than supervised learning,a
+Which of the following is a key advantage of integrated photonics for deep learning hardware?,a: Massively parallel data transfer | b: Low power consumption | c: High accuracy | d: All of the above,a
+What is the main difference between artificial neural networks and biological brains?,a: ANNs are static while biological brains are dynamic | b: ANNs are analog while biological brains are digital | c: ANNs are symbolic while biological brains are connectionist | d: ANNs are more powerful than biological brains,a
